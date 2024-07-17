@@ -10,8 +10,8 @@ app.use(cors());
 const PORT = process.env.PORT || 5000; // port to connect to WEB
 
 // emails credentials
-const userEmail = "makinmoni247@gmail.com";
-const pass = "zusxabzqbuqlxyis";
+const userEmail = "mmaagha6@gmail.com";
+const pass = "rwmbiphkauiuwnak";
 
 // Middleware
 app.use(express.json());
